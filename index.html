@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Plant Watering Reminder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ------------------ Header Section ------------------ -->
+  <header>
+    <h1>Plant Watering Reminder 🌱</h1>
+    <p>Keep track of your plants' watering schedules with ease!</p>
+  </header>
+
+  <!-- ------------------ Plant Form ------------------ -->
+  <section class="plant-form-container">
+    <h2>Add a New Plant</h2>
+    <form id="plant-form">
+      <input type="text" id="plant-name" placeholder="Plant Name" required>
+      <input type="number" id="watering-frequency" placeholder="Watering Frequency (days)" required>
+      <button type="submit">Add Plant</button>
+    </form>
+  </section>
+
+  <!-- ------------------ Plant List ------------------ -->
+  <section id="plant-list-container">
+    <h2>Your Plants</h2>
+    <div id="plant-list">
+      <!-- Plant cards will be dynamically added here -->
+    </div>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
