@@ -3,7 +3,7 @@
 // GitHub Profile: https://github.com/hamzawritescode
 // Codédex Profile: https://www.codedex.io/@HamzaWritesCode
 // Project Repository: https://github.com/yourprofile/plant-watering-reminder
-// Codédex Project Link: https://www.codedex.io/community/project-showcase/yourprojectlink
+// Codédex Project Link: https://www.codedex.io/community/project-showcase/JRKJIbrekujRkqDPsOrV
 //
 // Your Name is a passionate developer with a focus on web development.
 // With expertise in HTML, CSS, JavaScript, and front-end technologies, 
